@@ -1,0 +1,16 @@
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\bin\Debug\netcoreapp3.1\CardValidation.exe
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\bin\Debug\netcoreapp3.1\CardValidation.deps.json
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\bin\Debug\netcoreapp3.1\CardValidation.runtimeconfig.json
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\bin\Debug\netcoreapp3.1\CardValidation.runtimeconfig.dev.json
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\bin\Debug\netcoreapp3.1\CardValidation.dll
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\bin\Debug\netcoreapp3.1\CardValidation.pdb
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\bin\Debug\netcoreapp3.1\Stateless.dll
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\obj\Debug\netcoreapp3.1\CardValidation.csproj.AssemblyReference.cache
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\obj\Debug\netcoreapp3.1\CardValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\obj\Debug\netcoreapp3.1\CardValidation.AssemblyInfoInputs.cache
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\obj\Debug\netcoreapp3.1\CardValidation.AssemblyInfo.cs
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\obj\Debug\netcoreapp3.1\CardValidation.csproj.CoreCompileInputs.cache
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\obj\Debug\netcoreapp3.1\CardValidation.csproj.CopyComplete
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\obj\Debug\netcoreapp3.1\CardValidation.dll
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\obj\Debug\netcoreapp3.1\CardValidation.pdb
+C:\Users\baosh\Downloads\StateMachineExamples\CardValidation\obj\Debug\netcoreapp3.1\CardValidation.genruntimeconfig.cache

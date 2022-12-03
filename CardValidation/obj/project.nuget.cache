@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EfIV9VHeXmXYGxYeyXwAcHBadW9y2cszlTOA8qw3uQD1ZdlUyt5oHl/K2EKYy00HTwB0nKeQgE+s41NOcnyr3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\baosh\\Downloads\\StateMachineExamples\\CardValidation\\CardValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baosh\\.nuget\\packages\\stateless\\5.12.0\\stateless.5.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
