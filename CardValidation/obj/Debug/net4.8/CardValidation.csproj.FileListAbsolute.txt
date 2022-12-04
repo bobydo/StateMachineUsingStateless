@@ -1,0 +1,15 @@
+E:\StateMachineUsingStateless\CardValidation\bin\Debug\net4.8\log4net.config
+E:\StateMachineUsingStateless\CardValidation\bin\Debug\net4.8\CardValidation.exe.config
+E:\StateMachineUsingStateless\CardValidation\bin\Debug\net4.8\CardValidation.exe
+E:\StateMachineUsingStateless\CardValidation\bin\Debug\net4.8\CardValidation.pdb
+E:\StateMachineUsingStateless\CardValidation\bin\Debug\net4.8\log4net.dll
+E:\StateMachineUsingStateless\CardValidation\bin\Debug\net4.8\Stateless.dll
+E:\StateMachineUsingStateless\CardValidation\obj\Debug\net4.8\CardValidation.csproj.AssemblyReference.cache
+E:\StateMachineUsingStateless\CardValidation\obj\Debug\net4.8\CardValidation.csproj.SuggestedBindingRedirects.cache
+E:\StateMachineUsingStateless\CardValidation\obj\Debug\net4.8\CardValidation.GeneratedMSBuildEditorConfig.editorconfig
+E:\StateMachineUsingStateless\CardValidation\obj\Debug\net4.8\CardValidation.AssemblyInfoInputs.cache
+E:\StateMachineUsingStateless\CardValidation\obj\Debug\net4.8\CardValidation.AssemblyInfo.cs
+E:\StateMachineUsingStateless\CardValidation\obj\Debug\net4.8\CardValidation.csproj.CoreCompileInputs.cache
+E:\StateMachineUsingStateless\CardValidation\obj\Debug\net4.8\CardValidation.csproj.CopyComplete
+E:\StateMachineUsingStateless\CardValidation\obj\Debug\net4.8\CardValidation.exe
+E:\StateMachineUsingStateless\CardValidation\obj\Debug\net4.8\CardValidation.pdb

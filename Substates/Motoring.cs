@@ -7,6 +7,7 @@ namespace Substates
 {
     public enum State
     {
+        Off,
         Start,
         Motoring,
         Seatbelt,
@@ -28,9 +29,16 @@ namespace Substates
         private const string engineNoise = "chug ";
         private Task engineTask;
         private readonly StateMachine<State, Trigger> machine;
+        public State CurrentState = State.Off;
+        public int Count { get; set; }
         public Motoring()
         {
-            machine = new StateMachine<State, Trigger>(State.Start);
+            Count = 0;
+            machine = new StateMachine<State, Trigger>(() => CurrentState, NewState =>
+            {
+                CurrentState = NewState;
+                Count++;
+            });
             ConfigureMachine();
         }
 
@@ -43,7 +51,7 @@ namespace Substates
 
             machine.Configure(State.Motoring)
             .Permit(Trigger.Fasten, State.Seatbelt)
-            .OnEntry(() => Log("Started Motoring"))
+            .OnEntry((transition) => Log("Started Motoring"))
             .OnExitAsync(() =>
              {
                  Log("Finished Motoring");

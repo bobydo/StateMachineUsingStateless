@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.IO;
+using System.Reflection;
 
 namespace CardValidation
 {
@@ -7,6 +8,11 @@ namespace CardValidation
     {
         static void Main()
         {
+            LogConfig.LoadLogConfig();
+            var _log4net = log4net.LogManager.GetLogger(typeof(Program));
+
+            _log4net.Info("Hello Logging World");
+
             var cardMachine = new CardMachine();
             Trigger trigger;
             do

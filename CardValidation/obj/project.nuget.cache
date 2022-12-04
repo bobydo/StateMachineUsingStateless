@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "EfIV9VHeXmXYGxYeyXwAcHBadW9y2cszlTOA8qw3uQD1ZdlUyt5oHl/K2EKYy00HTwB0nKeQgE+s41NOcnyr3g==",
+  "dgSpecHash": "WVH2iksY3mL8GNkDxFUKUPzwOhPZg8BjXVzhmpSBtIEO87TdbROLdYSBcOY+U06sOi2dUMHjTSXwdCSTJxtofw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baosh\\Downloads\\StateMachineExamples\\CardValidation\\CardValidation.csproj",
+  "projectFilePath": "E:\\StateMachineUsingStateless\\CardValidation\\CardValidation.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\baosh\\.nuget\\packages\\stateless\\5.12.0\\stateless.5.12.0.nupkg.sha512"
+    "C:\\Users\\baosh\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\baosh\\.nuget\\packages\\stateless\\5.12.0\\stateless.5.12.0.nupkg.sha512",
+    "C:\\Users\\baosh\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\baosh\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\baosh\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\baosh\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\baosh\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

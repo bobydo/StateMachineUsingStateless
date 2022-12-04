@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baosh\\Downloads\\StateMachineExamples\\CardValidation\\CardValidation.csproj": {}
+    "E:\\StateMachineUsingStateless\\CardValidation\\CardValidation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baosh\\Downloads\\StateMachineExamples\\CardValidation\\CardValidation.csproj": {
+    "E:\\StateMachineUsingStateless\\CardValidation\\CardValidation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baosh\\Downloads\\StateMachineExamples\\CardValidation\\CardValidation.csproj",
+        "projectUniqueName": "E:\\StateMachineUsingStateless\\CardValidation\\CardValidation.csproj",
         "projectName": "CardValidation",
-        "projectPath": "C:\\Users\\baosh\\Downloads\\StateMachineExamples\\CardValidation\\CardValidation.csproj",
+        "projectPath": "E:\\StateMachineUsingStateless\\CardValidation\\CardValidation.csproj",
         "packagesPath": "C:\\Users\\baosh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baosh\\Downloads\\StateMachineExamples\\CardValidation\\obj\\",
+        "outputPath": "E:\\StateMachineUsingStateless\\CardValidation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -48,6 +48,10 @@
             "Stateless": {
               "target": "Package",
               "version": "[5.12.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
             }
           },
           "imports": [

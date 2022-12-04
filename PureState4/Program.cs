@@ -55,6 +55,7 @@ namespace PureState4
     {
         static void Main()
         {
+            LogConfig.LoadLogConfig();
             var context = new Context();
             string input = "10011010111011011";
             var result = context.Validate(input);

@@ -7,9 +7,10 @@ namespace Substates
     {
         static async Task Main()
         {
-          Motoring motoring = new Motoring();
-          await  motoring.StartupAsync();
-          Console.ReadLine();
+            LogConfig.LoadLogConfig();
+            Motoring motoring = new Motoring();
+            await  motoring.StartupAsync();
+            Console.ReadLine();
         }
     }
 }

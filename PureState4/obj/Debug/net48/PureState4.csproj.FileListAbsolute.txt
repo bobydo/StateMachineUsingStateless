@@ -1,0 +1,13 @@
+E:\StateMachineUsingStateless\PureState4\bin\Debug\net48\PureState4.exe.config
+E:\StateMachineUsingStateless\PureState4\bin\Debug\net48\PureState4.exe
+E:\StateMachineUsingStateless\PureState4\bin\Debug\net48\PureState4.pdb
+E:\StateMachineUsingStateless\PureState4\bin\Debug\net48\Stateless.dll
+E:\StateMachineUsingStateless\PureState4\obj\Debug\net48\PureState4.csproj.AssemblyReference.cache
+E:\StateMachineUsingStateless\PureState4\obj\Debug\net48\PureState4.csproj.SuggestedBindingRedirects.cache
+E:\StateMachineUsingStateless\PureState4\obj\Debug\net48\PureState4.GeneratedMSBuildEditorConfig.editorconfig
+E:\StateMachineUsingStateless\PureState4\obj\Debug\net48\PureState4.AssemblyInfoInputs.cache
+E:\StateMachineUsingStateless\PureState4\obj\Debug\net48\PureState4.AssemblyInfo.cs
+E:\StateMachineUsingStateless\PureState4\obj\Debug\net48\PureState4.csproj.CoreCompileInputs.cache
+E:\StateMachineUsingStateless\PureState4\obj\Debug\net48\PureState4.csproj.CopyComplete
+E:\StateMachineUsingStateless\PureState4\obj\Debug\net48\PureState4.exe
+E:\StateMachineUsingStateless\PureState4\obj\Debug\net48\PureState4.pdb

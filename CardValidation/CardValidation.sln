@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29920.165
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardValidation", "CardValidation.csproj", "{9C72B4B8-3337-479C-BB6E-08C8313B2E35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardValidation", "CardValidation.csproj", "{9C72B4B8-3337-479C-BB6E-08C8313B2E35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substates", "..\Substates\Substates.csproj", "{D7E58C93-370B-4F0C-99B5-13947C91A962}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Substates", "..\Substates\Substates.csproj", "{D7E58C93-370B-4F0C-99B5-13947C91A962}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureState4", "..\PureState4\PureState4.csproj", "{BC3AF279-B9F0-46F4-93A2-4C632CD1A234}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PureState4", "..\PureState4\PureState4.csproj", "{BC3AF279-B9F0-46F4-93A2-4C632CD1A234}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0BD335FD-4C5D-472F-9119-D961DCA6D713}"
+	ProjectSection(SolutionItems) = preProject
+		LogConfig.cs = LogConfig.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
